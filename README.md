@@ -14,6 +14,14 @@ Run the program with each jumble you want solved as arguments separated by space
     $ python jumble.py <jumble-1> <jumble-2> ... <jumble-n>
 e.g.
 
-    $ python jumble.py areop cefta cugorh limyte
-    [['opera'], ['facet'], ['grouch'], ['timely']]
+    $ python jumble.py neliv papyl supcam woutal
+
+
+    --JUMBLE V0.1 by ADG--
+      neliv ----> liven
+      papyl ----> apply
+      supcam ----> campus
+      woutal ----> outlaw
+
+
 
